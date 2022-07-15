@@ -2,6 +2,10 @@
   <img alt="Capa" title="Capa" src="./assets/images/capa.png" />
 </h1>
 
+## Social Tree
+
+É uma página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido
+
 ## Layout
 
 Você pode duplicar o layout (figma) do projeto [clicando aqui](https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-links/duplicate).
